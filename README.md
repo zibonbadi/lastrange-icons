@@ -3,14 +3,18 @@
 # LaStrange icons
 
 A clean, simple icon theme for easy and focused computing.
-Originally developed for [dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food), the name is a reference to Tom LaStrange, the inventor of [the TWM window manager](https://en.wikipedia.org/wiki/Twm), which served as the main inspiration for the desktop theme.
+Originally developed for [dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food), the theme aims to be simple in both design and implementation while keeping a distinctly Unix-like aesthetic ...with some modern quality-of-life considerations.
+
+The name is a reference to Tom LaStrange, the inventor of [the TWM window manager](https://en.wikipedia.org/wiki/Twm), which served as the main inspiration for the desktop theme. Other influences include printed paper, [the Athena widget library](https://en.wikipedia.org/wiki/X_Athena_Widgets) and [the Amiga Workbench](https://en.wikipedia.org/wiki/Workbench_(AmigaOS))
+
+
 
 # Philosophy
 
 ## Do One Thing And Do It Well
 
 This theme being tailor-made for Linux (notably the XFCE desktop environment), it's design is naturally influenced by the Unix philosophy.
-Everything is designed according to a set of simple, predefined rules (outlined below), which are to be applied thoroughly, consistently and automatically across the entire system, such that the user's cognitive load is reduced by associative consistency. In short: Things that work similar, look similar, are similar.
+Everything is designed according to a set of simple, predefined rules (outlined below), which are to be applied thoroughly, consistently and if possible automatically across the entire system, such that the user's cognitive load is reduced by associative consistency. In short: Things that work similar, look similar, are similar.
 
 ## No Frills, No Distractions, No Secrets
 
@@ -18,7 +22,7 @@ Most modern UI designs attempt to simplify the user experience by hiding or obfu
 
 Beyond that many modern UI designs also employ so called "calls to action". In practice, this usually means that elements the designer deems important are emphasized by making them attention-grabbing, which can be distracting as well as allow for [dark patterns](https://en.wikipedia.org/wiki/Dark_pattern).
 
-LaStrange does not impose any particular order of importance to an action. Instead, everything is distilled to it's essential function and presented equally, which leads to a clean, consistent and uncluttered experience for users who know what they want their system to do.
+LaStrange does not impose any particular order of importance to an action. Instead, everything is distilled to it's essential function and presented equally relying instead on visual variables and Gestalt to convey information about the UI. This leads to a clean, consistent and uncluttered experience for users who know what they want their system to do.
 
 ## Let The Computer Do The Work
 
@@ -45,15 +49,15 @@ Although LaStrange is built in such a way that it allows for easy creation of cu
 |--|--|--|
 | Black | |	#1f1f1f	|
 | White | |	#d9d9d9	|
-| cyan	|	#19a698 |	#47ccbf	|
+| Cyan	|	#19a698 |	#22AA99 (#47ccbf for use in 16 color mode)	|
 
 ### Secondary Palette (for 16 colors)
 
 | Color | dark | light |
 |--|--|--|
-| red |	#cc3333 |	#ff7373
-| green |	#179917 |	#00de00
-| yellow |	#a6954b |	#cca700
-| blue |	#175ce6 |	#8797ff
-| magenta |	#9a19a6 |	#f066ff
+| Red |	#cc3333 |	#ff7373
+| Green |	#179917 |	#00de00
+| Yellow |	#a6954b |	#cca700
+| Blue |	#175ce6 |	#8797ff
+| Magenta |	#9a19a6 |	#f066ff
 

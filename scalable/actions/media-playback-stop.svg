@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="applications-multimedia.svg"
+   sodipodi:docname="media-playback-stop.svg"
    id="svg4532"
    version="1.1"
    viewBox="0 0 67.733332 67.733335"
@@ -57,9 +57,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="136.59923"
-     inkscape:cx="106.53087"
-     inkscape:zoom="2.7976091"
+     inkscape:cy="106.29685"
+     inkscape:cx="141.95449"
+     inkscape:zoom="1.7597037"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -161,7 +161,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -172,19 +172,16 @@
      inkscape:label="Ebene 1">
     <g
        id="g856"
-       transform="matrix(2.1966094,0,0,2.1966094,-40.362812,-314.75172)"
-       style="stroke-width:1.60601051;stroke-miterlimit:4;stroke-dasharray:none">
-      <circle
-         r="11.284478"
-         cy="263.12009"
-         cx="33.853436"
-         id="path852"
-         style="fill:#d9d9d9;stroke:#1f1f1f;stroke-width:1.60601051;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;fill-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccc"
-         id="path6097"
-         d="m 29.613494,254.50438 v 17.07348 l 12.786376,-8.22885 z"
-         style="fill:#1f1f1f;fill-opacity:1;stroke:none;stroke-width:1.60601051;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
+       transform="matrix(2.6085411,0,0,2.6085411,-55.160569,-427.37158)"
+       style="stroke:#22aa99;stroke-width:1.35239494;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:none;fill-opacity:1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#22aa99;stroke-width:3.52778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect904"
+       width="52.705002"
+       height="52.704994"
+       x="7.5141668"
+       y="236.78082"
+       rx="2.6204855"
+       ry="2.6204855" />
   </g>
 </svg>

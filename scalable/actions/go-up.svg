@@ -12,7 +12,7 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg4532"
-   sodipodi:docname="media-playback-pause.svg"
+   sodipodi:docname="go-up.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <defs
      id="defs4526">
@@ -23,28 +23,6 @@
        inkscape:vp_z="67.733332 : 33.866667 : 1"
        inkscape:persp3d-origin="33.866666 : 22.577778 : 1"
        id="perspective848" />
-    <inkscape:path-effect
-       effect="dashed_stroke"
-       id="path-effect996"
-       is_visible="true"
-       lpeversion="1"
-       numberdashes="4"
-       holefactor="0"
-       splitsegments="false"
-       halfextreme="false"
-       unifysegment="true"
-       message="Eine Füllung kann mit dem &lt;b&gt;Zwischen vielen füllen&lt;/b&gt;-Pfadeffekt hinzugefügt werden." />
-    <inkscape:path-effect
-       effect="dashed_stroke"
-       id="path-effect869"
-       is_visible="true"
-       lpeversion="1"
-       numberdashes="5"
-       holefactor="0"
-       splitsegments="false"
-       halfextreme="true"
-       unifysegment="false"
-       message="Eine Füllung kann mit dem &lt;b&gt;Zwischen vielen füllen&lt;/b&gt;-Pfadeffekt hinzugefügt werden." />
   </defs>
   <sodipodi:namedview
      inkscape:guide-bbox="true"
@@ -55,11 +33,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5548291"
-     inkscape:cx="137.48209"
-     inkscape:cy="77.587471"
+     inkscape:zoom="2.2672213"
+     inkscape:cx="106.0147"
+     inkscape:cy="132.28582"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g856"
      showgrid="false"
      units="px"
      inkscape:window-width="1600"
@@ -129,7 +107,7 @@
        inkscape:label=""
        id="guide1442"
        orientation="0,1"
-       position="30.573847,7.5141667" />
+       position="60.219167,7.5141667" />
     <sodipodi:guide
        id="guide1444"
        orientation="1,0"
@@ -152,6 +130,10 @@
        id="guide1450"
        orientation="0,1"
        position="52.705,15.028333" />
+    <sodipodi:guide
+       id="guide1452"
+       orientation="1,0"
+       position="52.704999,15.028333" />
   </sodipodi:namedview>
   <metadata
      id="metadata4529">
@@ -161,7 +143,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -171,26 +153,17 @@
      id="layer1"
      transform="translate(0,-229.26665)">
     <g
-       style="stroke:#22aa99;stroke-width:1.35239494;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:none;fill-opacity:1"
-       transform="matrix(2.6085411,0,0,2.6085411,-55.160569,-427.37158)"
-       id="g856" />
-    <rect
-       ry="2.6204855"
-       rx="2.6204855"
-       y="244.29498"
-       x="11.363537"
-       height="37.676666"
-       width="15.054791"
-       id="rect904"
-       style="fill:none;fill-opacity:1;stroke:#22aa99;stroke-width:3.52778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#22aa99;stroke-width:3.52777;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect904-9"
-       width="15.08125"
-       height="37.676666"
-       x="40.183773"
-       y="244.29498"
-       rx="2.6204853"
-       ry="2.6204853" />
+       id="g856"
+       transform="matrix(2.3505434,0,0,2.3505434,-45.675483,-355.51401)"
+       style="fill:none;fill-opacity:1;stroke:#22aa99;stroke-width:1.50083;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         id="rect852"
+         style="fill:none;fill-opacity:1;stroke:#22aa99;stroke-width:1.50083;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 37.561281,274.40447 v -7.514 h 7.654478 L 33.930916,251.83566 22.568907,266.89047 h 7.451777 v 7.514 z" />
+      <g
+         id="g6074"
+         transform="matrix(0.865323,0,0,1.7215693,4.6210202,-204.04907)"
+         style="fill:none;fill-opacity:1;stroke:#22aa99;stroke-width:1.22965;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
