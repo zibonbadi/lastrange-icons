@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="window-close.svg"
+   id="svg4532"
+   version="1.1"
+   viewBox="0 0 67.733332 67.733335"
+   height="256"
+   width="256">
+  <defs
+     id="defs4526">
+    <inkscape:perspective
+       id="perspective848"
+       inkscape:persp3d-origin="33.866666 : 22.577778 : 1"
+       inkscape:vp_z="67.733332 : 33.866667 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 33.866667 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       message="Eine Füllung kann mit dem &lt;b&gt;Zwischen vielen füllen&lt;/b&gt;-Pfadeffekt hinzugefügt werden."
+       unifysegment="true"
+       halfextreme="false"
+       splitsegments="false"
+       holefactor="0"
+       numberdashes="4"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect996"
+       effect="dashed_stroke" />
+    <inkscape:path-effect
+       message="Eine Füllung kann mit dem &lt;b&gt;Zwischen vielen füllen&lt;/b&gt;-Pfadeffekt hinzugefügt werden."
+       unifysegment="false"
+       halfextreme="true"
+       splitsegments="false"
+       holefactor="0"
+       numberdashes="5"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect869"
+       effect="dashed_stroke" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="853"
+     inkscape:window-width="1600"
+     units="px"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="127.96308"
+     inkscape:cx="182.97379"
+     inkscape:zoom="1.8546166"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="0,67.733334"
+       orientation="0,256"
+       id="guide853" />
+    <sodipodi:guide
+       position="67.733,67.733334"
+       orientation="-1,0"
+       id="guide855"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="67.733334,0"
+       orientation="0,-256"
+       id="guide857" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-1,0"
+       id="guide859"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="22.568958,45.164375"
+       orientation="0,1"
+       id="guide1430"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="45.137917,22.595417"
+       orientation="0,1"
+       id="guide1432"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="22.568958,45.164376"
+       orientation="1,0"
+       id="guide1434" />
+    <sodipodi:guide
+       position="45.137916,22.595418"
+       orientation="1,0"
+       id="guide1436" />
+    <sodipodi:guide
+       position="7.5141667,60.219167"
+       orientation="0,1"
+       id="guide1438"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="7.5141667,60.219167"
+       orientation="1,0"
+       id="guide1440" />
+    <sodipodi:guide
+       position="30.573847,7.5141667"
+       orientation="0,1"
+       id="guide1442"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="60.219167,7.5141667"
+       orientation="1,0"
+       id="guide1444" />
+    <sodipodi:guide
+       position="15.028333,52.705"
+       orientation="0,1"
+       id="guide1446"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="15.028333,52.705001"
+       orientation="1,0"
+       id="guide1448" />
+    <sodipodi:guide
+       position="52.705,15.028333"
+       orientation="0,1"
+       id="guide1450"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4529">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-229.26665)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <g
+       id="g856"
+       transform="matrix(2.6085411,0,0,2.6085411,-55.160569,-427.37158)"
+       style="stroke:#1f1f1f;stroke-width:1.35239494;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#d9d9d9;fill-opacity:1" />
+    <path
+       id="rect957"
+       style="fill:#22aa99;fill-opacity:1;stroke:#1f1f1f;stroke-width:13.33333353;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 199 36.744141 C 193.83958 36.744137 188.67878 38.721613 184.72461 42.675781 L 127.90039 99.5 L 71.224609 42.824219 C 63.316247 34.915856 50.584117 34.915883 42.675781 42.824219 C 34.767419 50.732581 34.767419 63.466638 42.675781 71.375 L 99.351562 128.05078 L 42.625 184.77539 C 34.716664 192.68373 34.716638 205.41586 42.625 213.32422 C 50.533362 221.23258 63.267446 221.23255 71.175781 213.32422 L 127.90039 156.59961 L 184.77539 213.47461 C 192.68375 221.38297 205.41586 221.38297 213.32422 213.47461 C 221.23255 205.56627 221.23258 192.83414 213.32422 184.92578 L 156.44922 128.05078 L 213.27539 71.224609 C 221.18373 63.316274 221.18375 50.584144 213.27539 42.675781 C 209.32121 38.7216 204.16042 36.744144 199 36.744141 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,229.26665)" />
+  </g>
+</svg>
