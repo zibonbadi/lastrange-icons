@@ -22,18 +22,26 @@ Most modern UI designs attempt to simplify the user experience by hiding or obfu
 
 Beyond that many modern UI designs also employ so called "calls to action". In practice, this usually means that elements the designer deems important are emphasized by making them attention-grabbing, which can be distracting as well as allow for [dark patterns](https://en.wikipedia.org/wiki/Dark_pattern).
 
-LaStrange does not impose any particular order of importance to an action. Instead, everything is distilled to it's essential function and presented equally relying instead on visual variables and Gestalt to convey information about the UI. This leads to a clean, consistent and uncluttered experience for users who know what they want their system to do.
+LaStrange does not impose any particular order of importance to an action. Instead, everything is presented equally based on it's interactive properties, with the UI relying instead on visual variables such as shape, texture and size, as well as the laws of Gestalt to convey information about the UI. This leads to a clean, consistent and uncluttered experience tailored to users who know what they want their system to do.
 
 ## Let The Computer Do The Work
 
-Wherever possible, everything is rendered on-the-fly, **without** the use of any pre-built assets (due to restrictions this currently only applies to the GTK theme). This reduces labour effort, keeps consistency and is better scalable to increasing display resolutions/pixel densities. In case of [the LaStrange icon theme](https://github.com/zibonbadi/lastrange-icons/), this means that *everything* will be built upon vector graphics only.
+Wherever possible, everything is rendered on-the-fly, **without** the use of any pre-built assets (due to technical restrictions this currently only applies to the GTK theme). This reduces labour effort, keeps consistency and is better scalable to increasing display resolutions/pixel densities. In case of [the LaStrange icon theme](https://github.com/zibonbadi/lastrange-icons/), this means that *everything* will be built upon vector graphics only, whereas [the LaStrange desktop theme](https://github.com/zibonbadi/lastrange-gtk-theme/) solely uses CSS instead.
 
 ## You Are Not Alone
 
 Every design exists within a context. Thus, it is not enough for a UI-design to be internally consistent; it has to conform to the UI/UX guidelines of it's context as well to ensure a pleasant, consistent user experience.
-[LaStrange Desktop theme]( https://github.com/zibonbadi/lastrange-icons ) and similarly [the LaStrange icon theme](https://github.com/zibonbadi/lastrange-icons/) is designed to work within both light and dark modes based on the same set of icons.
+For example, [the LaStrange icon theme](https://github.com/zibonbadi/lastrange-icons/) is designed to work within both light and dark modes based on the same set of icons.
 
 # Practice
+
+## Design Rule Cheat Sheet
+
+1. Preserve whitespace.
+2. Color signifies interactivity and active selection. More detail on the official color palette in the above section "Color Palette".
+3. Texture creates detail. Detail attracts attention.
+4. Keep it flat and two-dimensional. Use the laws of Gestalt to organize things visually. If you need to explicitly separate, do so using lines.
+5. Do **not** indicate three-dimensionality through brightness-based methods (e.g. shadows, gradiens, Neumorphism). Instead, use line thickness to give it the appearance of being printed onto paper as if to mimick something lying in front of the viewer on a table.
 
 ## Color palette
 
@@ -42,7 +50,7 @@ The main shades of light and dark grey have also intentionally been chosen to re
 
 ### Primary colors
 
-Although LaStrange is built in such a way that it allows for easy creation of custom color pallettes (a fact which is further highlighted by the included theme set *Default, Dark, Solarized Light, Solarized Dark & Inndustrial*), the overall design is based on the 3 primary colors listed below:
+Although LaStrange is built in such a way that it allows for easy creation of custom color pallettes (a fact which is further highlighted by the included theme set *Default, Dark, Solarized Light, Solarized Dark & Industrial*), the overall design is based on the 3 primary colors listed below:
 
 
 | Color | dark | light |

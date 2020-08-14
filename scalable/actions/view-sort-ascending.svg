@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="clipboard.svg"
+   sodipodi:docname="view-sort-ascending.svg"
    id="svg4532"
    version="1.1"
    viewBox="0 0 67.733332 67.733335"
@@ -16,6 +16,18 @@
    width="256">
   <defs
      id="defs4526">
+    <rect
+       id="rect859"
+       height="9.6015917"
+       width="9.6015917"
+       y="258.3869"
+       x="29.033474" />
+    <rect
+       id="rect853"
+       height="9.6015917"
+       width="9.6015917"
+       y="258.3869"
+       x="29.033474" />
     <inkscape:perspective
        id="perspective848"
        inkscape:persp3d-origin="33.866666 : 22.577778 : 1"
@@ -29,15 +41,15 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1033"
-     inkscape:window-width="1920"
+     inkscape:window-height="854"
+     inkscape:window-width="1600"
      units="px"
      showgrid="false"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g856"
      inkscape:document-units="px"
-     inkscape:cy="132.67549"
-     inkscape:cx="102.40098"
-     inkscape:zoom="3.7138228"
+     inkscape:cy="54.868999"
+     inkscape:cx="297.0951"
+     inkscape:zoom="1.5503411"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -76,12 +88,16 @@
        inkscape:locked="false"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="45.137917,22.595417"
+       position="42.288467,22.697503"
        orientation="0,1"
        id="guide1432"
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="22.568958,45.164376"
+       orientation="1,0"
+       id="guide1434" />
     <sodipodi:guide
        position="45.137916,22.595418"
        orientation="1,0"
@@ -148,43 +164,30 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Ebene 1">
-    <rect
-       ry="2.0896976"
-       y="240.56331"
-       x="15.028333"
-       height="48.922504"
-       width="37.67667"
-       id="rect5414"
-       style="fill:#1f1f1f;stroke:#d9d9d9;stroke-width:1.76389;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:28.989;paint-order:stroke markers fill;fill-opacity:1;stroke-opacity:1" />
-    <path
-       id="rect5284-4"
-       d="m 26.842709,245.92504 c -1.380014,0 -2.490895,1.11088 -2.490895,2.49089 v 29.7454 c 0,1.38002 1.110881,2.49118 2.490895,2.49118 h 18.169767 c 1.380014,0 2.490894,-1.11116 2.490894,-2.49118 V 256.82185 L 36.606555,245.92504 Z"
-       style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:#1f1f1f;stroke-width:1.64474;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
     <g
-       transform="matrix(0.54824574,0,0,0.54824574,11.054986,123.98982)"
-       id="g5382">
+       style="fill:none;fill-opacity:1;stroke:#22aa99;stroke-width:1.50083;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(2.3505434,0,0,2.3505434,-45.675483,-355.51401)"
+       id="g856">
       <path
-         id="rect5284"
-         d="m 23.226459,227.01496 c -2.517146,0 -4.543392,2.02625 -4.543392,4.54339 v 54.2556 c 0,2.51715 2.026246,4.54391 4.543392,4.54391 h 33.141646 c 2.517145,0 4.54339,-2.02676 4.54339,-4.54391 v -38.9232 L 41.035708,227.01496 Z"
-         style="opacity:1;fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:#1f1f1f;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path5332"
-         d="M 40.784825,246.86328 H 60.379619 L 40.738317,227.22198 Z"
-         style="fill:#d9d9d9;fill-opacity:1;stroke:#1f1f1f;stroke-width:0.86115;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 37.773503,275.05719 v -7.94863 h 8.097233 L 33.933148,251.18294 21.91393,267.10856 h 7.882807 v 7.94863 z"
+         style="fill:none;fill-opacity:1;stroke:#22aa99;stroke-width:1.58764;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect852" />
+      <g
+         style="fill:none;fill-opacity:1;stroke:#22aa99;stroke-width:1.22965;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0.865323,0,0,1.7215693,4.6210202,-204.04907)"
+         id="g6074" />
+      <text
+         style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:4.50250498px;line-height:1.25;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect853);"
+         id="text850"
+         xml:space="preserve" />
+      <text
+         transform="matrix(1.1771155,0,0,1.1771155,-4.0912624,-48.053504)"
+         style="font-style:normal;font-weight:normal;font-size:4.5025px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect859);fill:#000000;fill-opacity:1;stroke:none;"
+         id="text857"
+         xml:space="preserve"><tspan
+           x="29.033203"
+           y="266.02787"><tspan
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.40468px;font-family:'Linux Libertine G';-inkscape-font-specification:'Linux Libertine G, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#22aa99;fill-opacity:1">A</tspan></tspan></text>
     </g>
-    <path
-       inkscape:connector-curvature="0"
-       id="path5332-3"
-       d="M 36.469009,256.80679 H 47.211772 L 36.443511,246.03853 Z"
-       style="fill:#d9d9d9;fill-opacity:1;stroke:#1f1f1f;stroke-width:0.472122;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       ry="2.0896976"
-       y="236.78082"
-       x="22.568956"
-       height="7.5141668"
-       width="22.568956"
-       id="rect5416"
-       style="fill:#d9d9d9;stroke:#222222;stroke-width:1.76389;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:28.989;paint-order:stroke markers fill;fill-opacity:1" />
   </g>
 </svg>
