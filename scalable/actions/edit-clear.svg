@@ -12,7 +12,7 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg4532"
-   sodipodi:docname="edit-find.svg"
+   sodipodi:docname="edit-clear.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <defs
      id="defs4526">
@@ -33,11 +33,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.2397123"
-     inkscape:cx="97.001109"
-     inkscape:cy="198.45923"
+     inkscape:zoom="1.636885"
+     inkscape:cx="140.30908"
+     inkscape:cy="134.56359"
      inkscape:document-units="px"
-     inkscape:current-layer="g853"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1600"
@@ -81,7 +81,7 @@
        inkscape:label=""
        id="guide1432"
        orientation="0,1"
-       position="45.137916,22.595417" />
+       position="45.137917,22.595417" />
     <sodipodi:guide
        id="guide1434"
        orientation="1,0"
@@ -143,7 +143,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -152,28 +152,35 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-229.26665)">
-    <g
-       id="g853"
-       transform="matrix(2.3948356,0,0,2.3948356,-47.878699,-385.45864)">
-      <circle
-         r="8.7416143"
-         style="fill:none;stroke:#22aa99;stroke-width:2.20961584;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-         id="path852"
-         cx="33.168903"
-         cy="269.46692"
-         inkscape:transform-center-x="0.12440377"
-         inkscape:transform-center-y="-0.0016572965" />
-      <rect
-         transform="rotate(-45)"
-         style="fill:#22aa99;fill-opacity:1;stroke:none;stroke-width:1.1211;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-         id="rect854"
-         width="4.7918758"
-         height="4.8130302"
-         x="-169.591"
-         y="224.51976"
-         inkscape:transform-center-x="-9.5265507"
-         inkscape:transform-center-y="-0.0045660702"
-         ry="0.58595359" />
-    </g>
+    <path
+       id="rect849"
+       style="fill:none;stroke:#cc3333;stroke-width:6.66666677;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:1"
+       d="M 85.300781 28.400391 L 85.300781 56.800781 L 100.70703 56.800781 L 100.70703 38.269531 L 156.36328 38.269531 L 156.36328 56.800781 L 170.59961 56.800781 L 170.59961 28.400391 L 85.300781 28.400391 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,229.26665)" />
+    <rect
+       style="fill:none;stroke:#cc3333;stroke-width:2.46944445;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:1"
+       id="rect853"
+       width="37.676666"
+       height="37.650215"
+       x="15.028333"
+       y="251.8356" />
+    <rect
+       style="fill:none;stroke:#cc3333;stroke-width:2.46944445;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:1"
+       id="rect851"
+       width="52.704998"
+       height="7.5406251"
+       x="7.5141664"
+       y="244.29498" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:83.3969px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#cc3333;fill-opacity:1;stroke:none;stroke-width:2.08493;"
+       x="15.94325"
+       y="320.0834"
+       id="text1189"><tspan
+         sodipodi:role="line"
+         id="tspan1187"
+         x="15.94325"
+         y="320.0834"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:83.3969px;font-family:'Linux Libertine G';-inkscape-font-specification:'Linux Libertine G, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#cc3333;fill-opacity:1;stroke-width:2.08493;">*</tspan></text>
   </g>
 </svg>

@@ -39,7 +39,9 @@ For example, [the LaStrange icon theme](https://github.com/zibonbadi/lastrange-i
 
 1. Preserve whitespace.
 2. Color signifies interactivity and active selection. More detail on the official color palette in the above section "Color Palette".
-3. Texture creates detail. Detail attracts attention.
+3. Texture creates detail. Detail attracts attention. Grabbing attention is bad.
+	a. Elements that are supposed to be grabbable (e.g. window borders) are textured using subtle, horizontal stripes.
+	b. Disabled/inaccessible elements are textured with thick, diagonal stripes, akin to barrier tape.
 4. Keep it flat and two-dimensional. Use the laws of Gestalt to organize things visually. If you need to explicitly separate, do so using lines.
 5. Do **not** indicate three-dimensionality through brightness-based methods (e.g. shadows, gradiens, Neumorphism). Instead, use line thickness to give it the appearance of being printed onto paper as if to mimick something lying in front of the viewer on a table.
 
