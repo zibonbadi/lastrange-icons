@@ -12,10 +12,16 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg4532"
-   sodipodi:docname="emblem-shared.svg"
+   sodipodi:docname="emblem-shared_staging.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <defs
      id="defs4526">
+    <rect
+       id="rect1046"
+       height="37.676667"
+       width="37.676666"
+       y="244.29498"
+       x="15.028333" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 33.866667 : 1"
@@ -23,6 +29,82 @@
        inkscape:vp_z="67.733332 : 33.866667 : 1"
        inkscape:persp3d-origin="33.866666 : 22.577778 : 1"
        id="perspective848" />
+    <inkscape:path-effect
+       message="Eine Füllung kann mit dem &lt;b&gt;Zwischen vielen füllen&lt;/b&gt;-Pfadeffekt hinzugefügt werden."
+       unifysegment="false"
+       halfextreme="true"
+       splitsegments="false"
+       holefactor="0"
+       numberdashes="7"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect2904"
+       effect="dashed_stroke" />
+    <inkscape:path-effect
+       effect="dashed_stroke"
+       id="path-effect1094"
+       is_visible="true"
+       lpeversion="1"
+       numberdashes="5"
+       holefactor="0"
+       splitsegments="false"
+       halfextreme="true"
+       unifysegment="false"
+       message="Eine Füllung kann mit dem &lt;b&gt;Zwischen vielen füllen&lt;/b&gt;-Pfadeffekt hinzugefügt werden." />
+    <inkscape:path-effect
+       effect="dashed_stroke"
+       id="path-effect1075"
+       is_visible="true"
+       lpeversion="1"
+       numberdashes="5"
+       holefactor="0"
+       splitsegments="false"
+       halfextreme="true"
+       unifysegment="true"
+       message="Eine Füllung kann mit dem &lt;b&gt;Zwischen vielen füllen&lt;/b&gt;-Pfadeffekt hinzugefügt werden." />
+    <inkscape:path-effect
+       message="Eine Füllung kann mit dem &lt;b&gt;Zwischen vielen füllen&lt;/b&gt;-Pfadeffekt hinzugefügt werden."
+       unifysegment="true"
+       halfextreme="true"
+       splitsegments="false"
+       holefactor="0"
+       numberdashes="5"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect1041"
+       effect="dashed_stroke" />
+    <inkscape:path-effect
+       message="Eine Füllung kann mit dem &lt;b&gt;Zwischen vielen füllen&lt;/b&gt;-Pfadeffekt hinzugefügt werden."
+       unifysegment="false"
+       halfextreme="true"
+       splitsegments="false"
+       holefactor="0"
+       numberdashes="5"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect1024"
+       effect="dashed_stroke" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 33.866667 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="67.733332 : 33.866667 : 1"
+       inkscape:persp3d-origin="33.866666 : 22.577778 : 1"
+       id="perspective848-9" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 33.866667 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="67.733332 : 33.866667 : 1"
+       inkscape:persp3d-origin="33.866666 : 22.577778 : 1"
+       id="perspective848-6" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 33.866667 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="67.733332 : 33.866667 : 1"
+       inkscape:persp3d-origin="33.866666 : 22.577778 : 1"
+       id="perspective848-8" />
   </defs>
   <sodipodi:namedview
      inkscape:guide-bbox="true"
@@ -33,9 +115,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7571297"
-     inkscape:cx="172.04782"
-     inkscape:cy="120.55102"
+     inkscape:zoom="3.4137139"
+     inkscape:cx="107.7008"
+     inkscape:cy="120.39041"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -111,7 +193,7 @@
     <sodipodi:guide
        id="guide1444"
        orientation="1,0"
-       position="60.219167,7.5141667" />
+       position="60.219167,37.495545" />
     <sodipodi:guide
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false"
@@ -143,7 +225,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -152,48 +234,62 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-229.26665)">
-    <path
-       style="fill:#d9d9d9;fill-opacity:1;stroke:#1f1f1f;stroke-width:7.05555557;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 16.028755,263.29375 51.828979,245.54178"
-       id="path886-0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:#d9d9d9;fill-opacity:1;stroke:#1f1f1f;stroke-width:7.05555557;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 16.028755,263.29375 35.593934,17.90348"
-       id="path884-8"
-       sodipodi:nodetypes="cc" />
+    <rect
+       ry="26.352499"
+       rx="26.352499"
+       y="236.78082"
+       x="7.5141664"
+       height="52.704998"
+       width="52.704998"
+       id="rect936"
+       style="fill:#1f1f1f;fill-opacity:1;stroke:#d9d9d9;stroke-width:5.29167;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
     <g
-       style="fill:#d9d9d9;fill-opacity:1;stroke:#1f1f1f;stroke-opacity:1;stroke-width:1.51629479;stroke-miterlimit:4;stroke-dasharray:none"
-       id="g859"
-       transform="matrix(2.3265778,0,0,2.3265778,-44.925157,-366.60243)">
+       inkscape:label="Ebene 1"
+       id="layer1-7"
+       transform="matrix(0.60763923,0,0,0.60763923,12.380838,103.5381)">
       <path
-         sodipodi:nodetypes="cc"
-         id="path884"
-         d="m 26.198957,270.73937 15.298837,7.6952"
-         style="fill:#d9d9d9;stroke:#d9d9d9;stroke-width:1.51629479;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
-      <circle
-         r="3.7703125"
-         cy="270.59927"
-         cx="26.310884"
-         id="path852"
-         style="fill:#d9d9d9;fill-opacity:1;stroke:#1f1f1f;stroke-width:1.51629479;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         style="fill:#d9d9d9;fill-opacity:1;stroke:#1f1f1f;stroke-width:7.05556;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 16.028755,263.29375 51.828979,245.54178"
+         id="path886-0"
+         sodipodi:nodetypes="cc" />
       <path
-         sodipodi:nodetypes="cc"
-         id="path886"
-         d="M 26.198957,270.73936 41.58646,263.10928"
-         style="fill:#d9d9d9;stroke:#d9d9d9;stroke-width:1.51629479;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
-      <circle
-         style="fill:#d9d9d9;fill-opacity:1;stroke:#1f1f1f;stroke-width:1.51629479;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path852-4"
-         cx="41.391499"
-         cy="278.17093"
-         r="3.7703125" />
-      <circle
-         r="3.7703125"
-         cy="263.14459"
-         cx="41.354851"
-         id="path852-4-8"
-         style="fill:#d9d9d9;fill-opacity:1;stroke:#1f1f1f;stroke-width:1.51629479;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         style="fill:#d9d9d9;fill-opacity:1;stroke:#1f1f1f;stroke-width:7.05556;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 16.028755,263.29375 35.593934,17.90348"
+         id="path884-8"
+         sodipodi:nodetypes="cc" />
+      <g
+         style="fill:#d9d9d9;fill-opacity:1;stroke:#1f1f1f;stroke-width:1.51629;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="g859"
+         transform="matrix(2.3265778,0,0,2.3265778,-44.925157,-366.60243)">
+        <circle
+           style="fill:#d9d9d9;fill-opacity:1;stroke:#1f1f1f;stroke-width:1.51629;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="path852-4"
+           cx="41.391499"
+           cy="278.17093"
+           r="3.7703125" />
+        <path
+           sodipodi:nodetypes="cc"
+           id="path884"
+           d="m 26.198957,270.73937 15.298837,7.6952"
+           style="fill:#d9d9d9;fill-opacity:1;stroke:#d9d9d9;stroke-width:1.51629;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           r="3.7703125"
+           cy="270.59927"
+           cx="26.310884"
+           id="path852"
+           style="fill:#d9d9d9;fill-opacity:1;stroke:#1f1f1f;stroke-width:1.51629;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+        <path
+           sodipodi:nodetypes="cc"
+           id="path886"
+           d="M 26.198957,270.73936 41.58646,263.10928"
+           style="fill:#d9d9d9;fill-opacity:1;stroke:#d9d9d9;stroke-width:1.51629;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           r="3.7703125"
+           cy="263.14459"
+           cx="41.354851"
+           id="path852-4-8"
+           style="fill:#d9d9d9;fill-opacity:1;stroke:#1f1f1f;stroke-width:1.51629;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+      </g>
     </g>
   </g>
 </svg>

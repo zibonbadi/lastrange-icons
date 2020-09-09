@@ -12,10 +12,16 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg4532"
-   sodipodi:docname="emblem-symbolic-link.svg"
+   sodipodi:docname="emblem-symbolic-link_staging.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <defs
      id="defs4526">
+    <rect
+       id="rect1046"
+       height="37.676667"
+       width="37.676666"
+       y="244.29498"
+       x="15.028333" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 33.866667 : 1"
@@ -23,19 +29,125 @@
        inkscape:vp_z="67.733332 : 33.866667 : 1"
        inkscape:persp3d-origin="33.866666 : 22.577778 : 1"
        id="perspective848" />
-    <filter
-       height="1.0000217"
-       y="-1.082861e-05"
-       width="1.0000215"
-       x="-1.0771541e-05"
-       id="filter860"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur862"
-         stdDeviation="8.4034337e-05"
-         inkscape:collect="always" />
-    </filter>
+    <inkscape:path-effect
+       message="Eine Füllung kann mit dem &lt;b&gt;Zwischen vielen füllen&lt;/b&gt;-Pfadeffekt hinzugefügt werden."
+       unifysegment="false"
+       halfextreme="true"
+       splitsegments="false"
+       holefactor="0"
+       numberdashes="7"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect2904"
+       effect="dashed_stroke" />
+    <inkscape:path-effect
+       effect="dashed_stroke"
+       id="path-effect1094"
+       is_visible="true"
+       lpeversion="1"
+       numberdashes="5"
+       holefactor="0"
+       splitsegments="false"
+       halfextreme="true"
+       unifysegment="false"
+       message="Eine Füllung kann mit dem &lt;b&gt;Zwischen vielen füllen&lt;/b&gt;-Pfadeffekt hinzugefügt werden." />
+    <inkscape:path-effect
+       effect="dashed_stroke"
+       id="path-effect1075"
+       is_visible="true"
+       lpeversion="1"
+       numberdashes="5"
+       holefactor="0"
+       splitsegments="false"
+       halfextreme="true"
+       unifysegment="true"
+       message="Eine Füllung kann mit dem &lt;b&gt;Zwischen vielen füllen&lt;/b&gt;-Pfadeffekt hinzugefügt werden." />
+    <inkscape:path-effect
+       message="Eine Füllung kann mit dem &lt;b&gt;Zwischen vielen füllen&lt;/b&gt;-Pfadeffekt hinzugefügt werden."
+       unifysegment="true"
+       halfextreme="true"
+       splitsegments="false"
+       holefactor="0"
+       numberdashes="5"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect1041"
+       effect="dashed_stroke" />
+    <inkscape:path-effect
+       message="Eine Füllung kann mit dem &lt;b&gt;Zwischen vielen füllen&lt;/b&gt;-Pfadeffekt hinzugefügt werden."
+       unifysegment="false"
+       halfextreme="true"
+       splitsegments="false"
+       holefactor="0"
+       numberdashes="5"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect1024"
+       effect="dashed_stroke" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 33.866667 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="67.733332 : 33.866667 : 1"
+       inkscape:persp3d-origin="33.866666 : 22.577778 : 1"
+       id="perspective848-9" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 33.866667 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="67.733332 : 33.866667 : 1"
+       inkscape:persp3d-origin="33.866666 : 22.577778 : 1"
+       id="perspective848-6" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 33.866667 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="67.733332 : 33.866667 : 1"
+       inkscape:persp3d-origin="33.866666 : 22.577778 : 1"
+       id="perspective848-8" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 33.866667 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="67.733332 : 33.866667 : 1"
+       inkscape:persp3d-origin="33.866666 : 22.577778 : 1"
+       id="perspective848-3" />
+    <inkscape:perspective
+       id="perspective848-2"
+       inkscape:persp3d-origin="33.866666 : 22.577778 : 1"
+       inkscape:vp_z="67.733332 : 33.866667 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 33.866667 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective848-91"
+       inkscape:persp3d-origin="33.866666 : 22.577778 : 1"
+       inkscape:vp_z="67.733332 : 33.866667 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 33.866667 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       message="Eine Füllung kann mit dem &lt;b&gt;Zwischen vielen füllen&lt;/b&gt;-Pfadeffekt hinzugefügt werden."
+       unifysegment="true"
+       halfextreme="false"
+       splitsegments="false"
+       holefactor="0"
+       numberdashes="4"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect996"
+       effect="dashed_stroke" />
+    <inkscape:path-effect
+       message="Eine Füllung kann mit dem &lt;b&gt;Zwischen vielen füllen&lt;/b&gt;-Pfadeffekt hinzugefügt werden."
+       unifysegment="false"
+       halfextreme="true"
+       splitsegments="false"
+       holefactor="0"
+       numberdashes="5"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect869"
+       effect="dashed_stroke" />
   </defs>
   <sodipodi:namedview
      inkscape:guide-bbox="true"
@@ -46,9 +158,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3846918"
-     inkscape:cx="153.61622"
-     inkscape:cy="220.73854"
+     inkscape:zoom="2.4138602"
+     inkscape:cx="157.92159"
+     inkscape:cy="128.48497"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -124,7 +236,7 @@
     <sodipodi:guide
        id="guide1444"
        orientation="1,0"
-       position="60.219167,7.5141667" />
+       position="60.219167,37.495545" />
     <sodipodi:guide
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false"
@@ -156,7 +268,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -165,20 +277,21 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-229.26665)">
-    <g
-       id="g856"
-       transform="matrix(-1.9828902,-1.9828902,1.9828902,-1.9828902,-416.76652,848.26152)"
-       style="fill:#d9d9d9;fill-opacity:1;stroke-width:1.25802003;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter860);stroke:#1f1f1f;stroke-opacity:1">
-      <g
-         id="g6074"
-         transform="matrix(0.865323,0,0,1.7215693,4.6210202,-204.04907)"
-         style="fill:#d9d9d9;fill-opacity:1;stroke-width:1.03070926;stroke-miterlimit:4;stroke-dasharray:none;stroke:#1f1f1f;stroke-opacity:1">
-        <path
-           transform="matrix(-0.07710021,0.03875336,-0.07710021,-0.03875336,53.589596,270.23236)"
-           d="M 227.59961 29.300781 L 29.623047 56.976562 L 85.46875 112.82031 L 29.154297 169.13477 L 85.666016 225.64844 L 141.98047 169.33398 L 199.34766 226.69922 L 227.59961 29.300781 z "
-           style="fill:#d9d9d9;fill-opacity:1;stroke:#1f1f1f;stroke-width:13.3333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path6050" />
-      </g>
-    </g>
+    <rect
+       ry="26.352499"
+       rx="26.352499"
+       y="236.78082"
+       x="7.5141664"
+       height="52.704998"
+       width="52.704998"
+       id="rect936"
+       style="fill:#1f1f1f;fill-opacity:1;stroke:#d9d9d9;stroke-width:5.29167;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    <path
+       sodipodi:nodetypes="ccccccccsccsc"
+       d="m 31.876191,249.12274 c 0.08489,0.3238 0.145889,2.82232 0.184787,5.06845 -11.818553,0 -16.869228,20.25606 -6.750095,25.30673 -5.068458,-10.13692 0,-10.13692 6.727169,-10.12135 -0.119336,5.07068 -0.09227,4.73837 -0.161861,5.0038 0.878381,-0.86899 17.458923,-12.37419 18.651038,-12.70062 -1.192115,-0.32643 -17.772657,-11.68803 -18.651038,-12.55701 z m 18.651038,12.55701 c 0.04447,0.0122 0.07259,0.0145 0.07259,0 0,-0.0145 -0.02813,-0.0122 -0.07259,0 z m -18.651038,12.70062 c -0.03275,0.0324 -0.04903,0.0556 -0.03647,0.0629 0.01256,0.007 0.02478,-0.0183 0.03647,-0.0629 z"
+       inkscape:transform-center-y="-8.3790402e-06"
+       inkscape:transform-center-x="3.1241305"
+       style="fill:#d9d9d9;fill-opacity:1;stroke:none;stroke-width:2.37121;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path912" />
   </g>
 </svg>

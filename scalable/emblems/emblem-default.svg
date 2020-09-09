@@ -12,7 +12,7 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg4532"
-   sodipodi:docname="emblem-readonly_staging.svg"
+   sodipodi:docname="emblem-default.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <defs
      id="defs4526">
@@ -112,6 +112,49 @@
        inkscape:vp_z="67.733332 : 33.866667 : 1"
        inkscape:persp3d-origin="33.866666 : 22.577778 : 1"
        id="perspective848-3" />
+    <inkscape:perspective
+       id="perspective848-2"
+       inkscape:persp3d-origin="33.866666 : 22.577778 : 1"
+       inkscape:vp_z="67.733332 : 33.866667 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 33.866667 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective848-91"
+       inkscape:persp3d-origin="33.866666 : 22.577778 : 1"
+       inkscape:vp_z="67.733332 : 33.866667 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 33.866667 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       message="Eine Füllung kann mit dem &lt;b&gt;Zwischen vielen füllen&lt;/b&gt;-Pfadeffekt hinzugefügt werden."
+       unifysegment="true"
+       halfextreme="false"
+       splitsegments="false"
+       holefactor="0"
+       numberdashes="4"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect996"
+       effect="dashed_stroke" />
+    <inkscape:path-effect
+       message="Eine Füllung kann mit dem &lt;b&gt;Zwischen vielen füllen&lt;/b&gt;-Pfadeffekt hinzugefügt werden."
+       unifysegment="false"
+       halfextreme="true"
+       splitsegments="false"
+       holefactor="0"
+       numberdashes="5"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect869"
+       effect="dashed_stroke" />
+    <inkscape:perspective
+       id="perspective848-93"
+       inkscape:persp3d-origin="33.866666 : 22.577778 : 1"
+       inkscape:vp_z="67.733332 : 33.866667 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 33.866667 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      inkscape:guide-bbox="true"
@@ -122,9 +165,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4138602"
-     inkscape:cx="118.15156"
-     inkscape:cy="105.25274"
+     inkscape:zoom="2.7153067"
+     inkscape:cx="99.389746"
+     inkscape:cy="130.56222"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -250,9 +293,14 @@
        width="52.704998"
        id="rect936"
        style="fill:#1f1f1f;fill-opacity:1;stroke:#d9d9d9;stroke-width:5.29167;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
-    <path
-       d="m 33.65298,250.73509 a 7.9108621,7.9108621 0 0 0 -7.831354,7.91065 7.9108621,7.9108621 0 0 0 4.611917,7.18997 l -4.269227,8.56886 h 15.821291 l -4.419667,-8.83932 a 7.9108621,7.9108621 0 0 0 4.076975,-6.91951 7.9108621,7.9108621 0 0 0 -7.910645,-7.91065 7.9108621,7.9108621 0 0 0 -0.07929,0 z"
-       style="fill:#d9d9d9;fill-opacity:1;stroke:none;stroke-width:3.70749;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       id="path888" />
+    <rect
+       ry="22.568956"
+       rx="26.352499"
+       y="251.8356"
+       x="22.568956"
+       height="22.568956"
+       width="22.568956"
+       id="rect886"
+       style="fill:#d9d9d9;fill-opacity:1;stroke:none;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
   </g>
 </svg>

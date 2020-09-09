@@ -12,7 +12,7 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg4532"
-   sodipodi:docname="preferences-desktop.svg"
+   sodipodi:docname="go-top.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <defs
      id="defs4526">
@@ -25,7 +25,6 @@
        id="perspective848" />
   </defs>
   <sodipodi:namedview
-     inkscape:snap-global="false"
      inkscape:guide-bbox="true"
      showguides="true"
      id="base"
@@ -34,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6854708"
-     inkscape:cx="120.87491"
-     inkscape:cy="81.640453"
+     inkscape:zoom="2.5503553"
+     inkscape:cx="64.246904"
+     inkscape:cy="147.82498"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -153,43 +152,33 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-229.26665)">
-    <rect
-       style="fill:#d9d9d9;fill-opacity:1;stroke:#1f1f1f;stroke-width:3.52778;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect837"
-       width="52.704998"
-       height="52.704998"
-       x="7.5141659"
-       y="236.78081"
-       ry="4.2772665" />
-    <rect
-       style="fill:#222222;fill-opacity:1;stroke:#1f1f1f;stroke-width:0.705556;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-       id="rect871"
-       width="37.676666"
-       height="7.5670838"
-       x="15.028334"
-       y="270.75519"
-       rx="3.7835419"
-       ry="3.7835419" />
-    <rect
-       ry="3.7835419"
-       rx="3.7835419"
-       y="247.92949"
-       x="15.028332"
-       height="7.5670838"
-       width="37.676666"
-       id="rect871-0"
-       style="fill:#1f1f1f;fill-opacity:1;stroke:#1f1f1f;stroke-width:0.705556;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
-    <circle
-       style="fill:#d9d9d9;fill-opacity:1;stroke:#1f1f1f;stroke-width:3.52778;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       id="path885"
-       cx="22.568958"
-       cy="251.8356"
-       r="7.5449977" />
-    <circle
-       r="7.5449977"
-       cy="274.40457"
-       cx="45.137917"
-       id="path885-9"
-       style="fill:#d9d9d9;fill-opacity:1;stroke:#1f1f1f;stroke-width:3.52777779;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    <g
+       id="g856"
+       transform="matrix(2.3505434,0,0,2.3505434,-45.675483,-355.51401)"
+       style="fill:none;fill-opacity:1;stroke:#22aa99;stroke-width:1.50083;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <g
+         id="g6074"
+         transform="matrix(0.865323,0,0,1.7215693,4.6210202,-204.04907)"
+         style="fill:none;fill-opacity:1;stroke:#22aa99;stroke-width:1.22965;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g891"
+       transform="rotate(180,33.866665,263.13332)">
+      <path
+         sodipodi:nodetypes="cccccccc"
+         transform="matrix(0.26458333,0,0,0.26458333,3.6857657e-6,229.26666)"
+         d="M 99.71557,28.399969 V 85.299972 H 56.799987 L 128.05556,186.26549 199.19999,85.299972 H 156.61557 V 28.399969 Z"
+         style="fill:#22aa99;fill-opacity:1;stroke:#22aa99;stroke-width:13.3333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect852" />
+      <rect
+         ry="3.7570829"
+         rx="3.7570829"
+         y="281.97165"
+         x="7.5141664"
+         height="7.5141659"
+         width="52.704998"
+         id="rect850"
+         style="fill:#22aa99;fill-opacity:1;stroke:none;stroke-width:3.52778;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+    </g>
   </g>
 </svg>
