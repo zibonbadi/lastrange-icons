@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="document-new.svg"
    id="svg4532"
    version="1.1"
@@ -58,15 +58,15 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1034"
-     inkscape:window-width="1920"
+     inkscape:window-height="852"
+     inkscape:window-width="1600"
      units="px"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="94.031116"
      inkscape:cx="40.1484"
-     inkscape:zoom="1.2441884"
+     inkscape:zoom="1.5645903"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -178,18 +178,18 @@
      inkscape:groupmode="layer"
      inkscape:label="Ebene 1">
     <g
-       style="fill:none;stroke:#22aa99;stroke-width:3.52778;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#d9d9d9;stroke:#1f1f1f;stroke-width:3.52778;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
        id="g883"
        transform="matrix(0.85821617,0,0,0.85821617,3.1775508,41.054925)">
       <path
          id="rect5284"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#22aa99;stroke-width:13.3333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         style="opacity:1;fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:#1f1f1f;stroke-width:13.3333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          d="M 77.207031 56.751953 C 60.797662 56.904923 60.925797 59.66757 60.943359 81.080078 L 61.042969 203.31445 C 61.063079 227.64045 60.755571 227.53738 85.050781 227.62109 L 158.56641 227.87305 C 182.96567 227.95706 182.86914 227.63903 182.86914 203.43555 L 182.94922 131.40039 C 182.42617 133.47202 180.5706 135.00195 178.33203 135.00195 L 160.44336 135.00195 C 157.79695 135.00195 155.66602 132.87103 155.66602 130.22461 L 155.66602 100.48438 L 126.83008 100.48438 C 124.18366 100.48438 122.05273 98.355447 122.05273 95.708984 L 122.05273 77.867188 C 122.05273 75.220725 124.18366 73.089844 126.83008 73.089844 L 141.60156 73.089844 L 125.9668 57.302734 L 85.300781 56.800781 C 82.233051 56.762912 79.551227 56.7301 77.207031 56.751953 z "
          transform="matrix(0.30829451,0,0,0.30829451,-3.7025063,219.30573)" />
     </g>
     <path
        d="m 42.450542,239.56595 c -0.700196,0 -1.263907,0.56369 -1.263907,1.26391 v 7.77507 h -7.629539 c -0.700197,0 -1.263904,0.56371 -1.263904,1.26392 v 4.72063 c 0,0.70021 0.563707,1.26366 1.263904,1.26366 h 7.629539 v 7.86906 c 0,0.7002 0.563711,1.2639 1.263907,1.2639 h 4.733102 c 0.700197,0 1.263903,-0.5637 1.263903,-1.2639 v -7.86906 h 8.00191 c 0.700196,0 1.263905,-0.56345 1.263905,-1.26366 v -4.72063 c 0,-0.70021 -0.563709,-1.26392 -1.263905,-1.26392 h -8.00191 v -7.77507 c 0,-0.70022 -0.563706,-1.26391 -1.263903,-1.26391 z"
-       style="fill:none;fill-opacity:1;stroke:#22aa99;stroke-width:3.52777779;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:#22aa99;fill-opacity:1;stroke:#1f1f1f;stroke-width:3.52777779;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect904-9" />
   </g>
 </svg>
