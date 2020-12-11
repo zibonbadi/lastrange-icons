@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="mail-mark-junk.svg"
+   sodipodi:docname="mail-mark-notjunk.svg"
    id="svg4532"
    version="1.1"
    viewBox="0 0 67.733332 67.733335"
@@ -35,9 +35,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="123.61565"
-     inkscape:cx="118.59416"
-     inkscape:zoom="2.0431102"
+     inkscape:cy="128"
+     inkscape:cx="128"
+     inkscape:zoom="2.62276"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -153,24 +153,22 @@
      inkscape:groupmode="layer"
      inkscape:label="Ebene 1">
     <path
-       transform="matrix(0.26458333,0,0,0.26458333,0,229.26665)"
-       d="M 85.300781 28.400391 L 85.300781 56.800781 L 100.70703 56.800781 L 100.70703 38.269531 L 156.36328 38.269531 L 156.36328 56.800781 L 170.59961 56.800781 L 170.59961 28.400391 L 85.300781 28.400391 z "
-       style="fill:#cc3339;stroke:#1f1f1f;stroke-width:6.66666677;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:1;fill-opacity:1"
+       id="path887"
+       style="fill:#cc3339;fill-opacity:1;stroke:#1f1f1f;stroke-width:1.05833334;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 32.967675,251.83561 H 15.028333 v 37.6499 h 37.676253 l 0,-18.34594 z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       d="m 41.049564,233.22723 -5.313391,5.31339 2.882334,2.88234 3.466986,-3.46699 10.412656,10.41265 -3.466989,3.46699 2.663456,2.66346 5.313391,-5.31339 z"
+       style="fill:#cc3339;fill-opacity:1;stroke:#1f1f1f;stroke-width:1.05833334;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect849" />
     <rect
-       y="251.8356"
-       x="15.028333"
-       height="37.650215"
-       width="37.676666"
-       id="rect853"
-       style="fill:#cc3339;stroke:#1f1f1f;stroke-width:2.46944445;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:1;fill-opacity:1" />
-    <rect
-       y="244.29498"
-       x="7.5141664"
+       y="143.40419"
+       x="178.88797"
        height="7.5406251"
        width="52.704998"
        id="rect851"
-       style="fill:#cc3339;stroke:#1f1f1f;stroke-width:2.46944445;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:1;fill-opacity:1" />
+       style="fill:#cc3339;fill-opacity:1;stroke:#1f1f1f;stroke-width:1.05833334;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       transform="rotate(45)" />
     <g
        id="g1614"
        transform="matrix(1.7441197,0,0,1.7441197,6.6930164,-142.48747)">
@@ -206,6 +204,18 @@
          y="239.02719"
          rx="0.65726078"
          ry="0.33234599" />
+    </g>
+    <g
+       id="g936"
+       transform="matrix(-0.33551991,0,0,0.33551991,25.970122,152.28496)"
+       style="fill:#22aa99;fill-opacity:1;stroke:#1f1f10;stroke-opacity:1;stroke-width:5.25718099;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         sodipodi:nodetypes="ccccccccsccsc"
+         d="m 32.336528,244.29498 c 0.126302,0.48175 0.217049,4.19893 0.274918,7.54063 -17.583113,0 -25.0972791,30.13604 -10.042488,37.65021 -7.540625,-15.08125 0,-15.08125 10.008381,-15.0581 -0.177544,7.54393 -0.137279,7.04954 -0.240811,7.44444 1.306817,-1.29284 25.974601,-18.40978 27.748177,-18.89542 -1.773576,-0.48564 -26.44136,-17.38893 -27.748177,-18.68176 z m 27.748177,18.68176 c 0.06616,0.0181 0.108003,0.0216 0.108003,0 0,-0.0216 -0.04184,-0.0181 -0.108003,0 z m -27.748177,18.89542 c -0.04873,0.0482 -0.07294,0.0827 -0.05426,0.0935 0.01868,0.0108 0.03687,-0.0272 0.05426,-0.0935 z"
+         inkscape:transform-center-y="-1.2884824e-05"
+         inkscape:transform-center-x="-4.6479377"
+         style="fill:#22aa99;fill-opacity:1;stroke:#1f1f10;stroke-width:5.25718099;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="path912" />
     </g>
   </g>
 </svg>

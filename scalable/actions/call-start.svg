@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="call-start.svg"
    id="svg4532"
    version="1.1"
@@ -51,15 +51,15 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="854"
-     inkscape:window-width="1600"
+     inkscape:window-height="809"
+     inkscape:window-width="1542"
      units="px"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="165.09785"
      inkscape:cx="63.968395"
-     inkscape:zoom="1.5115707"
+     inkscape:zoom="1.6747668"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -165,7 +165,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -175,7 +175,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Ebene 1">
     <path
-       style="fill:none;fill-opacity:1;stroke:#22aa99;stroke-width:2.98725;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#22aa99;fill-opacity:1;stroke:#1f1f1f;stroke-width:2.98725;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 58.23258,245.37012 c -10e-7,2.14247 -3e-6,6.42744 -5.371517,13.94144 -5.371514,7.514 -16.113885,18.25637 -23.627819,23.62755 -7.513933,5.37119 -11.79882,5.37119 -15.016222,4.29604 -3.217402,-1.07515 -5.3673875,-3.22514 -5.3711393,-5.37119 -0.00375,-2.14605 2.1386883,-4.28849 5.3636603,-5.36361 3.224971,-1.07512 7.532481,-1.08266 12.903955,-4.30387 5.371475,-3.22122 11.806336,-9.65608 15.023945,-15.02376 3.217608,-5.36769 3.217607,-9.66765 4.288755,-12.88882 1.071149,-3.22118 3.213588,-5.36362 5.359868,-5.36005 2.146279,0.004 4.296255,2.15355 5.371385,3.22868 1.07513,1.07513 1.07513,1.07511 1.075129,3.21759 z"
        id="path888"
        inkscape:path-effect="#path-effect890"
