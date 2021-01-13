@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="Bluetooth-off.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="bluetooth-disabled.svg"
    id="svg4532"
    version="1.1"
    viewBox="0 0 67.733332 67.733335"
@@ -29,15 +29,15 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1034"
+     inkscape:window-height="1032"
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="130.07192"
-     inkscape:cx="206.82815"
-     inkscape:zoom="2.62913"
+     inkscape:cy="173.39698"
+     inkscape:cx="244.56073"
+     inkscape:zoom="1.6518591"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -143,7 +143,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -158,7 +158,7 @@
        cy="263.13333"
        cx="33.866665"
        id="path1488"
-       style="opacity:1;fill:#d9d9d9;fill-opacity:1;stroke:none;stroke-width:2.64583334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:28.989;stroke-opacity:1;paint-order:stroke fill markers" />
+       style="opacity:1;fill:#d9d9d9;fill-opacity:1;stroke:#1f1f1f;stroke-width:3.52777779;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:28.989;stroke-opacity:1;paint-order:stroke fill markers" />
     <path
        id="path3666"
        d="m 22.568958,251.83561 22.568958,22.56896 -11.130841,7.56708 v -37.67667 l 11.130841,7.54063 -22.568958,22.56896"
