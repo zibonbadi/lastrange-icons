@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="format-indent-less.svg"
+   sodipodi:docname="format-indent-less-rtl.svg"
    id="svg4532"
    version="1.1"
    viewBox="0 0 67.733332 67.733335"
@@ -160,23 +160,25 @@
          id="rect854"
          width="18.870119"
          height="3.1376648"
-         x="23.130133"
+         x="-42.000252"
          y="259.82553"
-         ry="0.766666" />
+         ry="0.766666"
+         transform="scale(-1,1)" />
       <path
-         d="m 41.944582,266.11203 c 0.01876,0 0.03725,10e-4 0.05567,0.003 -1.347488,0.82416 -3.537909,2.10145 -5.364792,3.13468 H 24.607944 c -0.424732,0 -0.766676,-0.34173 -0.766676,-0.76646 v -1.60435 c 0,-0.42473 0.341944,-0.76667 0.766676,-0.76667 z"
+         d="m 23.185803,266.11203 c -0.01876,0 -0.03725,10e-4 -0.05567,0.003 1.347488,0.82416 3.537909,2.10145 5.364792,3.13468 h 12.027516 c 0.424732,0 0.766676,-0.34173 0.766676,-0.76646 v -1.60435 c 0,-0.42473 -0.341944,-0.76667 -0.766676,-0.76667 z"
          style="fill:#22aa99;fill-opacity:1;stroke:none;stroke-width:1.47304;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
          id="rect854-3" />
       <rect
          ry="0.766666"
          y="278.66254"
-         x="23.130133"
+         x="-42.000252"
          height="3.1707764"
          width="18.870119"
          id="rect856-8"
-         style="fill:#22aa99;fill-opacity:1;stroke:none;stroke-width:1.47304;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+         style="fill:#22aa99;fill-opacity:1;stroke:none;stroke-width:1.47304;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+         transform="scale(-1,1)" />
       <path
-         d="m 36.361418,272.39821 c 1.767418,0.99562 3.957092,2.26788 5.391549,3.1377 H 24.607944 c -0.424732,0 -0.766676,-0.34194 -0.766676,-0.76668 v -1.60434 c 0,-0.42473 0.341944,-0.76668 0.766676,-0.76668 z"
+         d="m 28.768967,272.39821 c -1.767418,0.99562 -3.957092,2.26788 -5.391549,3.1377 h 17.145023 c 0.424732,0 0.766676,-0.34194 0.766676,-0.76668 v -1.60434 c 0,-0.42473 -0.341944,-0.76668 -0.766676,-0.76668 z"
          style="fill:#22aa99;fill-opacity:1;stroke:none;stroke-width:1.47304;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
          id="rect854-3-9" />
     </g>
