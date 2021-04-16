@@ -41,7 +41,7 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="100.68145"
+     inkscape:cy="100.06542"
      inkscape:cx="79.001049"
      inkscape:zoom="2.4349384"
      inkscape:pageshadow="2"
@@ -192,5 +192,9 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#1f1f1f;fill-opacity:1;stroke:none;stroke-width:1.41901"
          id="path855" />
     </g>
+    <path
+       d="m 49.108086,231.60131 c -0.700196,0 -1.263907,0.56369 -1.263907,1.26392 v 7.77506 H 40.21464 c -0.700197,0 -1.263904,0.56371 -1.263904,1.26392 v 4.72063 c 0,0.70021 0.563707,1.26366 1.263904,1.26366 h 7.629539 v 7.86906 c 0,0.70021 0.563711,1.26391 1.263907,1.26391 h 4.733102 c 0.700197,0 1.263903,-0.5637 1.263903,-1.26391 V 247.8885 H 63.107 c 0.700194,0 1.263905,-0.56345 1.263905,-1.26366 v -4.72063 c 0,-0.70021 -0.563711,-1.26392 -1.263905,-1.26392 h -8.001909 v -7.77506 c 0,-0.70023 -0.563706,-1.26392 -1.263903,-1.26392 z"
+       style="fill:#22aa99;fill-opacity:1;stroke:#1f1f1f;stroke-width:3.52777;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect904-9" />
   </g>
 </svg>

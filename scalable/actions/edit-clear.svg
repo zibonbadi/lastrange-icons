@@ -29,15 +29,15 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="809"
-     inkscape:window-width="1542"
+     inkscape:window-height="1024"
+     inkscape:window-width="1920"
      units="px"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="116.43153"
-     inkscape:cx="140.30908"
-     inkscape:zoom="2.2976947"
+     inkscape:cy="290.10556"
+     inkscape:cx="-120.04057"
+     inkscape:zoom="0.81235775"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -171,16 +171,14 @@
        width="52.704998"
        id="rect851"
        style="fill:#cc3339;stroke:#1f1f1f;stroke-width:2.46944445;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:1;fill-opacity:1" />
-    <text
+    <g
+       aria-label="*"
        id="text1189"
-       y="320.0834"
-       x="15.94325"
-       style="font-style:normal;font-weight:normal;font-size:83.3969px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d9d9d9;fill-opacity:1;stroke:none;stroke-width:2.08493;"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:83.3969px;font-family:'Linux Libertine G';-inkscape-font-specification:'Linux Libertine G, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d9d9d9;fill-opacity:1;stroke-width:2.08493;"
-         y="320.0834"
-         x="15.94325"
-         id="tspan1187"
-         sodipodi:role="line">*</tspan></text>
+       style="font-style:normal;font-weight:normal;font-size:83.3969px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d9d9d9;fill-opacity:1;stroke:none;stroke-width:2.08493">
+      <path
+         d="m 32.353869,272.8876 q -3.013364,-0.48865 -3.420575,-0.40721 -2.85048,0.73298 -4.805095,0.12216 -1.913894,-0.65153 -1.913894,-3.21697 0,-1.01802 0.69226,-1.83245 0.692259,-0.85514 2.036057,-0.85514 1.588124,0 3.990672,1.83245 2.443268,1.83245 3.94995,2.52471 -0.162884,-1.75101 -1.343797,-4.15356 -1.180913,-2.44326 -1.180913,-3.46129 0,-1.26236 0.977307,-2.23967 1.018028,-0.9773 2.198942,-0.9773 1.262355,0 2.280383,0.73298 1.05875,0.73298 1.05875,2.15822 0,1.18091 -1.018028,3.94995 -0.977308,2.72832 -1.05875,3.99067 1.669567,-0.73298 3.787066,-2.60615 2.117499,-1.9139 3.624182,-1.9139 1.669566,0 2.443268,0.97731 0.814423,0.93659 0.814423,1.87317 0,3.33914 -5.741681,3.33914 -3.013364,0 -4.520047,0.24432 1.018029,1.09948 2.972644,2.1175 1.954614,0.97731 3.013364,2.03606 1.099471,1.01803 1.099471,2.93192 0,1.09947 -0.855144,1.75101 -0.814423,0.65154 -1.79173,0.65154 -1.832452,0 -2.809759,-1.26235 -0.977307,-1.30308 -1.710288,-3.66491 -0.732981,-2.40254 -1.42524,-3.46129 -0.651538,1.26235 -1.262355,3.6649 -0.570096,2.40255 -1.506682,3.58346 -0.895866,1.14019 -3.054086,1.14019 -1.099471,0 -1.79173,-0.69226 -0.651538,-0.69226 -0.651538,-1.62884 0,-1.99534 1.09947,-3.01337 1.099471,-1.05875 2.931922,-2.03606 1.873173,-1.01802 2.891201,-2.19894 z"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:83.3969px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d9d9d9;fill-opacity:1;stroke-width:2.08493"
+         id="path852" />
+    </g>
   </g>
 </svg>
