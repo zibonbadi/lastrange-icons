@@ -13,7 +13,7 @@
    version="1.1"
    id="svg4532"
    sodipodi:docname="edit-select-all.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <defs
      id="defs4526">
     <inkscape:perspective
@@ -55,15 +55,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4228006"
-     inkscape:cx="166.36681"
-     inkscape:cy="124.86728"
+     inkscape:zoom="1.7131787"
+     inkscape:cx="150.21582"
+     inkscape:cy="76.854233"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1600"
-     inkscape:window-height="854"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -170,16 +170,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-229.26665)">
-    <text
+    <g
+       aria-label="*"
        id="text1189"
-       y="372.69931"
-       x="-6.6123862"
-       style="font-style:normal;font-weight:normal;font-size:189.208px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#22aa99;fill-opacity:1;stroke:none;stroke-width:2.46944445;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:189.208px;font-family:'Linux Libertine G';-inkscape-font-specification:'Linux Libertine G, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#22aa99;fill-opacity:1;stroke-width:2.46944445;stroke:none;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
-         y="372.69931"
-         x="-6.6123862"
-         id="tspan1187"
-         sodipodi:role="line">*</tspan></text>
+       style="font-style:normal;font-weight:normal;font-size:189.208px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#22aa99;fill-opacity:1;stroke:none;stroke-width:2.46944;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         d="m 30.61946,265.62311 q -6.836617,-1.10864 -7.760484,-0.92387 -6.46707,1.66296 -10.901632,0.27716 -4.3421761,-1.47819 -4.3421761,-7.29855 0,-2.30967 1.5705742,-4.1574 1.5705739,-1.94012 4.6193359,-1.94012 3.603082,0 9.053898,4.1574 5.543203,4.1574 8.961511,5.72798 -0.369547,-3.97263 -3.048761,-9.42345 -2.679215,-5.5432 -2.679215,-7.85287 0,-2.86399 2.217281,-5.08127 2.309668,-2.21728 4.988883,-2.21728 2.863988,0 5.173656,1.66296 2.402054,1.66296 2.402054,4.8965 0,2.67921 -2.309668,8.96151 -2.217281,6.18991 -2.402054,9.0539 3.787855,-1.66297 8.591964,-5.91275 4.80411,-4.34218 8.222418,-4.34218 3.787855,0 5.543203,2.21728 1.847734,2.1249 1.847734,4.24979 0,7.57571 -13.026527,7.57571 -6.836617,0 -10.254925,0.55432 2.309668,2.49444 6.74423,4.80411 4.434563,2.21728 6.836617,4.61934 2.494441,2.30966 2.494441,6.65184 0,2.49444 -1.940121,3.97263 -1.847734,1.47819 -4.065015,1.47819 -4.157402,0 -6.374683,-2.86399 -2.217282,-2.95638 -3.880242,-8.31481 -1.662961,-5.45081 -3.233535,-7.85287 -1.478188,2.86399 -2.863989,8.31481 -1.293414,5.45081 -3.418308,8.13003 -2.032508,2.58683 -6.929004,2.58683 -2.494441,0 -4.065015,-1.57058 -1.478188,-1.57057 -1.478188,-3.69547 0,-4.52695 2.494442,-6.83661 2.494441,-2.40206 6.651843,-4.61934 4.249789,-2.30967 6.559457,-4.98888 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:189.208px;font-family:'Linux Libertine Capitals';-inkscape-font-specification:'Linux Libertine Capitals, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#22aa99;fill-opacity:1;stroke:none;stroke-width:2.46944;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path850" />
+    </g>
   </g>
 </svg>

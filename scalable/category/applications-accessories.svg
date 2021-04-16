@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="format-indent-less.svg"
+   sodipodi:docname="applications-accessories.svg"
    id="svg4532"
    version="1.1"
    viewBox="0 0 67.733332 67.733335"
@@ -16,6 +16,12 @@
    width="256">
   <defs
      id="defs4526">
+    <rect
+       x="22.628661"
+       y="251.98208"
+       width="22.422475"
+       height="22.422475"
+       id="rect906" />
     <inkscape:perspective
        id="perspective848"
        inkscape:persp3d-origin="33.866666 : 22.577778 : 1"
@@ -33,11 +39,11 @@
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
-     inkscape:current-layer="g853"
+     inkscape:current-layer="g856"
      inkscape:document-units="px"
-     inkscape:cy="163.05526"
-     inkscape:cx="22.63218"
-     inkscape:zoom="1.8722845"
+     inkscape:cy="127.45681"
+     inkscape:cx="55.034197"
+     inkscape:zoom="2"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -76,7 +82,7 @@
        inkscape:locked="false"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="45.137916,22.595417"
+       position="45.137917,22.595417"
        orientation="0,1"
        id="guide1432"
        inkscape:label=""
@@ -153,32 +159,14 @@
      inkscape:groupmode="layer"
      inkscape:label="Ebene 1">
     <g
-       transform="matrix(2.3948356,0,0,2.3948356,-47.878699,-385.45864)"
-       id="g853">
-      <rect
-         style="fill:#22aa99;fill-opacity:1;stroke:none;stroke-width:1.47304;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-         id="rect854"
-         width="18.870119"
-         height="3.1376648"
-         x="23.130133"
-         y="259.82553"
-         ry="0.766666" />
+       style="fill:none;fill-opacity:1;stroke:#22aa99;stroke-width:1.50083;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(2.3505434,0,0,2.3505434,-45.675483,-355.51401)"
+       id="g856">
       <path
-         d="m 41.944582,266.11203 c 0.01876,0 0.03725,10e-4 0.05567,0.003 -1.347488,0.82416 -3.537909,2.10145 -5.364792,3.13468 H 24.607944 c -0.424732,0 -0.766676,-0.34173 -0.766676,-0.76646 v -1.60435 c 0,-0.42473 0.341944,-0.76667 0.766676,-0.76667 z"
-         style="fill:#22aa99;fill-opacity:1;stroke:none;stroke-width:1.47304;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-         id="rect854-3" />
-      <rect
-         ry="0.766666"
-         y="278.66254"
-         x="23.130133"
-         height="3.1707764"
-         width="18.870119"
-         id="rect856-8"
-         style="fill:#22aa99;fill-opacity:1;stroke:none;stroke-width:1.47304;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
-      <path
-         d="m 36.361418,272.39821 c 1.767418,0.99562 3.957092,2.26788 5.391549,3.1377 H 24.607944 c -0.424732,0 -0.766676,-0.34194 -0.766676,-0.76668 v -1.60434 c 0,-0.42473 0.341944,-0.76668 0.766676,-0.76668 z"
-         style="fill:#22aa99;fill-opacity:1;stroke:none;stroke-width:1.47304;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-         id="rect854-3-9" />
+         id="path871"
+         style="opacity:0.99;fill:#d9d9d9;fill-opacity:1;stroke:#000000;stroke-width:20;stroke-opacity:1;paint-order:stroke fill markers"
+         d="M 127.55859 56.800781 A 71.199996 71.199996 0 0 0 91.552734 66.837891 L 128.93164 56.822266 L 170.57812 98.466797 L 155.33398 155.35742 L 98.445312 170.59961 L 56.808594 128.96289 A 71.199996 71.199996 0 0 0 128 199.19922 A 71.199996 71.199996 0 0 0 157.22656 192.92578 L 195.00586 230.70508 C 197.80256 233.50178 202.30492 233.50172 205.10156 230.70508 L 222.55273 213.25586 C 225.34937 210.45922 225.34943 205.95686 222.55273 203.16016 L 187.09961 167.70703 A 71.199996 71.199996 0 0 0 199.19922 128 A 71.199996 71.199996 0 0 0 128 56.800781 A 71.199996 71.199996 0 0 0 127.55859 56.800781 z M 66.808594 91.599609 A 71.199996 71.199996 0 0 0 56.800781 128 A 71.199996 71.199996 0 0 0 56.808594 128.92969 L 66.808594 91.599609 z "
+         transform="matrix(0.11256262,0,0,0.11256262,19.431882,248.78531)" />
     </g>
   </g>
 </svg>
